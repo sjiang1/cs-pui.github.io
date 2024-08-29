@@ -15,6 +15,9 @@
 | [University of Mary Washington](#umw) | Fredericksburg, VA. USA | 10/11/2024 |
 | [Amherst College - Systems](#amherst-systems) |Amherst, MA. USA | 10/14/2024 |
 | [Amherst College - Data Structures & Algorithm](#amherst-data) |Amherst, MA. USA | 10/14/2024 |
+| [Bard College - Computer Science](#bard-cs) | Annandale-on-Hudson, NY. USA | 10/15/2024 |
+| [Bard College - Data Analytics](#bard-da) | Annandale-on-Hudson, NY. USA | 10/15/2024 |
+| [Bard College - Statistics](#bard-stat) | Annandale-on-Hudson, NY. USA | 10/15/2024 |
 | [Ithaca College](#ithaca) | Ithada, NY. USA | 10/14/2024 |
 | [Swarthmore College](#swarthmore) | Swarthmore, PA. USA | 10/15/2024 |
 | [Wesleyan University](#wesleyan) | Middletown, CT. USA | 10/15/2024 |
