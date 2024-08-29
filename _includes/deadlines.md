@@ -12,6 +12,7 @@
 | [College of the Holy Cross - All Areas](#holy-cross) |Worcester, MA. USA | 10/08/2024 |
 | [College of the Holy Cross - Ethics in CS](#holy-cross-ethics) |Worcester, MA. USA | 10/08/2024 |
 | [Davidson College](#davidson) |Davidson, NC. USA | 10/08/2024 |
+| [University of Mary Washington](#umw) | Fredericksburg, VA. USA | 10/11/2024 |
 | [Amherst College - Systems](#amherst-systems) |Amherst, MA. USA | 10/14/2024 |
 | [Amherst College - Data Structures & Algorithm](#amherst-data) |Amherst, MA. USA | 10/14/2024 |
 | [Ithaca College](#ithaca) | Ithada, NY. USA | 10/14/2024 |
