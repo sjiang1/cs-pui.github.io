@@ -176,6 +176,20 @@ _Excerpt_ The Ithaca College Computer Science Department invites applications fo
 
 ------------
 
+### Knox College
+{: #knox}
+
+_Excerpt_ The Department of Computer Science at Knox College invites applications for appointments as full-time, tenure-track assistant professor beginning September 1, 2025. *Two* tenure-track positions are available. We are open to any research area, as well as new courses, programs, and pedagogies. We are particularly interested in candidates who can contribute to teaching and learning for a diverse student body in which 21% are first-generation college students, 37% of domestic students are students of color, and more than 20% are international students. 
+
+- Review of applications will begin on **September 23, 2024,** and will continue until the positions are filled. Applications received by that date will receive fullest consideration.
+- Galesburg, IL. USA
+
+[Full Job Posting](https://apply.interfolio.com/152587){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+
+------------
+
 ### St. Olaf College
 {: #st-olaf}
 
