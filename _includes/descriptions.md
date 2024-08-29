@@ -236,6 +236,19 @@ _Excerpt_ The Computer Science Department at Swarthmore College invites applicat
 
 ------------
 
+### University of Mary Washington
+{: #umw}
+
+_Excerpt_ The University of Mary Washington invites applications for an Assistant Professor of Computer Science, tenure-track, to begin August 15, 2025. Our close-knit team of ten faculty specializes in working with eager undergraduate students in small classes and in one-on-one mentoring settings. The candidate must either have earned a Ph.D. in Computer Science or a closely related field or have made substantial progress toward completing her/his dissertation. All candidates with a strong interest in teaching at the undergraduate level and any specialization are encouraged to apply. However, the department is particularly interested in candidates researching in some area of cybersecurity. Additional required qualifications are commitment to teaching at the undergraduate level and the ability to teach a variety of computer science topics. Highly-qualified candidates will be able to demonstrate dedication to effective teaching and high-impact learning, demonstrate effective oral and written communication skills, and have an interest in collaborating with undergraduate students in research. The normal teaching load is three sections per semester in small classes.
+
+- The preferred deadline for applications is **October 11, 2024**.
+- Fredericksburg, VA. USA
+
+[Full Job Posting](https://jobs.umw.edu/jobs/assistant-professor-of-computer-science-umw-virginia-united-states-0f9f0765-9981-4003-9fed-8103a997351e){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Wesleyan University
 {: #wesleyan}
 
