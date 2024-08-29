@@ -24,6 +24,43 @@ _Excerpt_ The Amherst College Department of Computer Science invites application
 [_back to all deadlines_](#deadlines)
 
 ------------
+### Bard College - Computer Science
+{: #bard-cs}
+
+_Excerpt_ The innovative and interdisciplinary Computational Sciences program at Bard College offers a B.A. in computer science, leads a new program in Data Analytics, and collaborates with several programs across the college including Environmental Studies, Experimental Humanities, and Mind, Brain, Behavior.  We are searching for 4 people to join our expanding program to help shape new curricular offerings and research opportunities.  As part of this cohort we seek two tenure-track Assistant Professors with a focus on Computer Science.  We will consider candidates with a Ph.D. in a relevant discipline who are committed to undergraduate teaching and to incorporating undergraduates into research.  Please see the full position description for details about the position.
+
+
+- Applications received by **October 15, 2024,** will be assured of full consideration. Review of applications will continue until the position is filled.
+- Annandale-on-Hudson, NY. USA
+
+[Full Job Posting](http://apply.interfolio.com/153025){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+### Bard College - Data Analytics
+{: #bard-da}
+
+_Excerpt_ The innovative and interdisciplinary Bard College Computational Sciences program offers a B.A. in computer science, leads a new program in Data Analytics, and collaborates with programs across the college including Environmental Studies, Experimental Humanities, and Mind, Brain, Behavior. We invite applications for a tenure-track Assistant Professor position to help shape new curricular offerings and research opportunities in Data Analytics. The successful applicant will be part of an incoming 4-person cohort within the expanding Computational Sciences program. We seek candidates from diverse disciplines who represent the interdisciplinary application of Data Analytics in the social sciences, environmental sciences, humanities, natural sciences, or physical sciences. We encourage applications from candidates with formal education in data analytics methods or who are actively engaged in scholarship involving advanced data analytics techniques.  This role offers the unique opportunity to contribute to innovative curricular approaches for teaching data analytics across Bard College’s programs, spanning sciences, arts, humanities, and social sciences.
+
+
+- Applications received by **October 15, 2024,** will be assured of full consideration. Review of applications will continue until the position is filled.
+- Annandale-on-Hudson, NY. USA
+
+[Full Job Posting](http://apply.interfolio.com/152616){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+### Bard College - Statistics
+{: #bard-stat}
+
+_Excerpt_ The innovative and interdisciplinary Bard College Computational Sciences program offers a B.A. in computer science, leads a new program in Data Analytics, and collaborates with programs across the college including Environmental Studies, Experimental Humanities, and Mind, Brain, Behavior. We invite applications for a tenure-track Assistant Professor positions to help shape new curricular offerings and research opportunities in Statistics. The successful applicant will be part of an incoming 4-person cohort within the expanding Computational Sciences program. We seek candidates from diverse disciplines who represent the interdisciplinary application of Data Analytics and Statistics in the social sciences, environmental sciences, humanities, natural sciences, or physical sciences. We encourage applications from candidates with formal education in statistics or who are actively engaged in scholarship involving statistics and advanced data analytics techniques.  This role offers the unique opportunity to contribute to innovative curricular approaches for teaching data analytics and statistics across Bard College’s programs, spanning sciences, arts, humanities, and social sciences.
+
+
+- Applications received by **October 15, 2024,** will be assured of full consideration. Review of applications will continue until the position is filled.
+- Annandale-on-Hudson, NY. USA
+
+[Full Job Posting](http://apply.interfolio.com/152618){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
 
 ### Bowdoin College - Digital and Computational Studies
 {: #bowdoin-comp}
