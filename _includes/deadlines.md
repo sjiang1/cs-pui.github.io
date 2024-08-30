@@ -8,6 +8,7 @@
 | [Hamilton College](#hamilton) | Hamilton, NY. USA | 10/01/2024
 | [St. Olaf College](#st-olaf) | Northfield, MN. USA | 10/01/2024 |
 | [Rhodes College](#rhodes) | Memphis, TN. USA | 10/01/2024 |
+| [Saint Mary's College](#st-marys) | Moraga Hills, CA. USA | 10/01/2024 |
 | [Carleton College](#carleton) | Northfield, MN. USA | 10/02/2024 |
 | [Pomona College](#pomona) | Claremont, CA. USA | 10/06/2024 |
 | [College of the Holy Cross - All Areas](#holy-cross) |Worcester, MA. USA | 10/08/2024 |
