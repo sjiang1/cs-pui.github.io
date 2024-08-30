@@ -273,6 +273,19 @@ _Excerpt_ The Department of Computer Science and Software Engineering at Rose-Hu
 [_back to all deadlines_](#deadlines)
 
 ------------
+### Saint Mary's College
+{: #st-marys}
+
+_Excerpt_ Saint Mary’s College invites applications for one tenure-track position at the level of Assistant Professor to start in July 2025. Candidates in all areas of Computer Science and related fields will be considered, with preference given to those whose area of research is Cybersecurity. The Computer Science program at Saint Mary’s College is rapidly growing; the applicant will have the opportunity to advance and guide this growth, including teaching and supporting the development of a graduate program in Computer Science (and, if applicable, a certificate in Cybersecurity) as well as exploring potential synergies with fields such as computational biology.
+
+- Review of applications will begin on October 1, 2024, and will continue until the position is filled. Applications received by that date will receive the fullest consideration. Finalist interviews are expected in November.
+- Moraga Hills, CA. USA
+
+[Full Job Posting]([https://rosehulman.csod.com/ux/ats/careersite/9/home/requisition/608?c=rosehulman](https://apply.interfolio.com/151993)){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 
 ### Swarthmore College
 {: #swarthmore}
