@@ -313,6 +313,19 @@ _Excerpt_ The University of Mary Washington invites applications for an Assistan
 
 ------------
 
+### Vassar College
+{: #vassar}
+
+_Excerpt_ Vassar is a highly selective, coeducational liberal arts college of about 2400 undergraduate students, located in the Hudson Valley, seventy-five miles north of New York City. Vassar stands upon the https://www.vassar.edu/land-acknowledgment. The College is located in Poughkeepsie, home to a culturally diverse community, and benefits from convenient commuter rail access to New York City.We seek creative individuals who are able to teach undergraduate courses in the department, maintain an active research program, engage undergraduates in their research, and foster a diverse and inclusive community. The ideal candidate would have expertise in theoretical computer science or a related area, including potential interest in multidisciplinary collaboration. Candidates from other areas are also encouraged to apply. In addition to offering upper-level courses in their area of expertise, candidates should also be able to develop and teach core courses at all levels of our curriculum. A PhD in Computer Science or related field is expected by the start of the Fall 2025 semester. A typical teaching load is one lab course and one non-lab course each semester.
+
+- The preferred deadline for applications is **October 13, 2024**.
+- Poughkeepsie, NY. USA
+
+[Full Job Posting](https://apptrkr.com/5589253){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Wesleyan University
 {: #wesleyan}
 
