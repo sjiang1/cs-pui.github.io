@@ -24,6 +24,7 @@
 | [Saint Mary's College](#st-marys) | Moraga Hills, CA. USA | 10/15/2024 |
 | [Swarthmore College](#swarthmore) | Swarthmore, PA. USA | 10/15/2024 |
 | [Wesleyan University](#wesleyan) | Middletown, CT. USA | 10/15/2024 |
+| [Washington and Lee University](#w-lee) | Lexington, VA. USA | 10/15/2024 |
 | [Richmond University](#richmond) | Richmond, VA. USA | 10/18/2024 | 
 | [Randolph-Macon College](#randolph) | Ashland, VA. USA | 10/21/2024 | 
 | [Franklin & Marshall College](#franklinmarshall) | Lancaster, PA. USA | 10/25/2024 |

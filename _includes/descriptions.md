@@ -326,6 +326,19 @@ _Excerpt_ Vassar is a highly selective, coeducational liberal arts college of ab
 
 ------------
 
+### Washington and Lee University
+{: #w-lee}
+
+_Excerpt_ The Department of Computer Science at Washington and Lee University invites applications for a tenure-track position at the rank of Assistant Professor of Computer Science beginning July 1, 2025. We seek candidates who demonstrate potential to be excellent teacher/scholars, are dedicated to effective teaching, and can mentor and collaborate with undergraduates. All areas of computer science will be considered.This position carries a 5-course teaching load distributed over Fall and Winter terms (12 weeks each) and the university’s signature 4-week Spring Term. Candidates should be prepared to teach introductory courses--including for non-majors--as well as intermediate or advanced courses in computer science. Our introductory courses have an associated lab, which counts towards the teaching load.  In addition to teaching courses, candidates should be able to sponsor student research in computer science.
+
+- The preferred deadline for applications is **October 15, 2024**.
+- Lexington, VA. USA
+
+[Full Job Posting](http://apply.interfolio.com/153279){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Wesleyan University
 {: #wesleyan}
 
