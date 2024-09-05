@@ -28,5 +28,5 @@
 | [Richmond University](#richmond) | Richmond, VA. USA | 10/18/2024 | 
 | [Randolph-Macon College](#randolph) | Ashland, VA. USA | 10/21/2024 | 
 | [Franklin & Marshall College](#franklinmarshall) | Lancaster, PA. USA | 10/25/2024 |
-| [Stonehill College](#stonehill) | Easton, MA. USA | Rolling |
 | [Williams College](#williams) | Williamstown, MA. USA | 11/08/2024 |
+| [Stonehill College](#stonehill) | Easton, MA. USA | Rolling |
