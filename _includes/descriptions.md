@@ -285,6 +285,16 @@ _Excerpt_ Saint Mary’s College invites applications for one tenure-track posit
 [_back to all deadlines_](#deadlines)
 
 ------------
+### Stonehill College
+{: #stonehill}
+
+_Excerpt_ Stonehill College invites applications for a tenure-track assistant professor position, anticipated to begin in August 2025. While all qualified candidates are encouraged to apply, the department is especially interested in candidates who can teach upper-level core computer science courses such as Operating Systems, Computer Networks, Cybersecurity, Compiler Design, Databases, and Software Engineering.
+
+- We will accept applications until the position is filled. Application review will begin immediately, and applications will be reviewed until the position is filled.
+- Easton, MA. USA
+
+[Full Job Posting](https://jobs.stonehill.edu/postings/24975){: .button-job}
+[_back to all deadlines_](#deadlines)
 
 
 ### Swarthmore College
