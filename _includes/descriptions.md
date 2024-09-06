@@ -126,6 +126,19 @@ _Excerpt_ Franklin & Marshall College invites applications for a tenure-track po
 
 -----------
 
+### Grinnell College
+{: #grinnell }
+
+_Excerpt_ The Department of Computer Science invites applications for _two tenure-track appointments_ beginning Fall 2025. Assistant Professor (Ph.D.) preferred; Instructor (ABD) or Associate Professor possible. We are eager to consider candidates who conduct research in any area of Computer Science. For one of the positions, the department will prioritize candidates interested in teaching courses in systems or software design and development. Candidates with degrees in closely related fields will also be considered. Candidates are expected to describe the ways they can support and engage with students and colleagues from historically underrepresented or marginalized groups.
+
+- We will begin reviewing applications on **October 11, 2024** and will continue until the positions are filled.
+- Grinnell, IA. USA.
+
+[Full Job Posting](http://apply.interfolio.com/153674){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+-----------
+
 ### Hamilton College
 {: #hamilton}
 
