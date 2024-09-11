@@ -62,6 +62,18 @@ _Excerpt_ The innovative and interdisciplinary Bard College Computational Scienc
 
 ------------
 
+### Barnard College
+{: #barnard}
+
+_Excerpt_ Ad is forthcoming for 2 full-time tenure-track faculty appointments.
+
+- Review of applications will begin **TBD (likely October 15, 2024)** and continue until the position is filled.
+- New York, NY, USA
+
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Bowdoin College - Digital and Computational Studies
 {: #bowdoin-comp}
 

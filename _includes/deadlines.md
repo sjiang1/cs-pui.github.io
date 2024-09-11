@@ -31,3 +31,4 @@
 | [Franklin & Marshall College](#franklinmarshall) | Lancaster, PA. USA | 10/25/2024 |
 | [Williams College](#williams) | Williamstown, MA. USA | 11/08/2024 |
 | [Stonehill College](#stonehill) | Easton, MA. USA | Rolling |
+| [Barnard College](#barnard) | New York, NY, USA | Forthcoming (likely 10/15/2024) |
