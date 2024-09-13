@@ -26,9 +26,9 @@
 | [Swarthmore College](#swarthmore) | Swarthmore, PA. USA | 10/15/2024 |
 | [Wesleyan University](#wesleyan) | Middletown, CT. USA | 10/15/2024 |
 | [Washington and Lee University](#w-lee) | Lexington, VA. USA | 10/15/2024 |
+| [Barnard College](#barnard) | New York, NY, USA | 10/18/2024 |
 | [Richmond University](#richmond) | Richmond, VA. USA | 10/18/2024 | 
 | [Randolph-Macon College](#randolph) | Ashland, VA. USA | 10/21/2024 | 
 | [Franklin & Marshall College](#franklinmarshall) | Lancaster, PA. USA | 10/25/2024 |
 | [Williams College](#williams) | Williamstown, MA. USA | 11/08/2024 |
 | [Stonehill College](#stonehill) | Easton, MA. USA | Rolling |
-| [Barnard College](#barnard) | New York, NY, USA | Forthcoming (likely 10/15/2024) |

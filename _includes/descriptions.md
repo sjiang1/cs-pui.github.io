@@ -65,9 +65,9 @@ _Excerpt_ The innovative and interdisciplinary Bard College Computational Scienc
 ### Barnard College
 {: #barnard}
 
-_Excerpt_ Ad is forthcoming for 2 full-time tenure-track faculty appointments.
+_Excerpt_ Full ad is forthcoming for 2 full-time tenure-track faculty appointments.
 
-- Review of applications will begin **TBD (likely October 15, 2024)** and continue until the position is filled.
+- Review of applications will begin **October 18, 2024** and continue until the position is filled.
 - New York, NY, USA
 
 [_back to all deadlines_](#deadlines)
