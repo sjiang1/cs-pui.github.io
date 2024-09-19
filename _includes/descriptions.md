@@ -164,6 +164,19 @@ _Excerpt_ The Computer Science Department at Hamilton College invites applicatio
 
 ------------
 
+### Hampden-Sydney College
+{: #hampden-sydney}
+
+_Excerpt_ The Department of Mathematics and Computer Science at Hampden-Sydney College invites applications for a tenure-track or long term Computer Science faculty position beginning August 2025. We seek enthusiastic candidates with a commitment to undergraduate education. The teaching load for this position is three courses per semester which works out to 19 credit hours per year on average. Applicants should have a Ph.D. or Masters degree in computer science or closely related field. We encourage candidates with a wide range of specialties to apply.  We would particularly welcome applications from candidates with interests in software engineering, operating systems, or programming languages.
+
+- Our review of applications will begin on **November 15, 2024** and will continue until filled
+- Hampden-Sydney, VA. USA
+
+[Full Job Posting](http://apply.interfolio.com/154838){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### College of the Holy Cross - All Areas
 {: #holy-cross}
 
