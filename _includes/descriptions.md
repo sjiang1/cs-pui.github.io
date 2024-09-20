@@ -65,11 +65,12 @@ _Excerpt_ The innovative and interdisciplinary Bard College Computational Scienc
 ### Barnard College
 {: #barnard}
 
-_Excerpt_ Full ad is forthcoming for 2 full-time tenure-track faculty appointments.
+_Excerpt_ [Barnard College Department of Computer Science](https://cs.barnard.edu/) is hiring two tenure-track assistant professors, starting July 1, 2025. As a premier liberal arts college for women in NYC, affiliated with Columbia University, Barnard offers opportunities for collaboration within both Barnard and Columbia's research communities. The Computer Science Department works closely with the [Vagelos Computational Science Center](https://csc.barnard.edu/) and aims to enhance students' experiences through academic support, research, and expanding the use of computation across disciplines. Faculty are expected to engage in teaching, research, curriculum development, and mentoring, with a focus on advancing diversity in computing. Candidates must have a PhD in Computer Science or a related field, a promising research agenda, and a commitment to undergraduate education. We encourage applications from candidates who take a multidisciplinary approach, whether across multiple subareas of computer science, or with research connections to another discipline.
 
 - Review of applications will begin **October 18, 2024** and continue until the position is filled.
 - New York, NY, USA
 
+[Full Job Posting](https://barnard.wd1.myworkdayjobs.com/Faculty/job/New-York-City-NY/Assistant-Professor-of-Computer-Science_JR4112){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
