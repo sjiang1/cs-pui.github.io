@@ -113,6 +113,19 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### Colgate University
+{: #colgate}
+
+_Excerpt_ The Department of Computer Science at Colgate University invites applications for a tenure-stream position at the rank of Assistant Professor, beginning fall semester 2025. The Department of Computer Science is evolving in exciting ways, with several recent hires and a move to a state-of-the-art facility designed to enhance collaboration. Our department is engaged in cross-disciplinary initiatives like [Arts, Creativity, and Innovation](https://www.colgate.edu/about/offices-centers-institutes/centers-institutes/arts-creativity-and-innovation-initiative) and [Mind, Brain, and Behavior](https://www.colgate.edu/about/offices-centers-institutes/centers-institutes/robert-hn-ho-mind-brain-and-behavior-initiative). We encourage candidates from all areas of computer science to apply.
+
+- Review of applications will begin **October 21, 2024** and continue until the position is filled.
+- Hamilton, NY. USA
+
+[Full Job Posting](https://apply.interfolio.com/154164){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Davidson College
 {: #davidson}
 
