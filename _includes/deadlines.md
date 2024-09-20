@@ -28,8 +28,8 @@
 | [Washington and Lee University](#w-lee) | Lexington, VA. USA | 10/15/2024 |
 | [Barnard College](#barnard) | New York, NY, USA | 10/18/2024 |
 | [Richmond University](#richmond) | Richmond, VA. USA | 10/18/2024 | 
-| [Randolph-Macon College](#randolph) | Ashland, VA. USA | 10/21/2024 | 
 | [Colgate University](#colgate) | Hamilton, NY. USA | 10/21/2024 | 
+| [Randolph-Macon College](#randolph) | Ashland, VA. USA | 10/21/2024 | 
 | [Franklin & Marshall College](#franklinmarshall) | Lancaster, PA. USA | 10/25/2024 |
 | [Williams College](#williams) | Williamstown, MA. USA | 11/08/2024 |
 | [Hampden-Sydney College](#hampden-sydney) | Hampden-Sydney, VA. USA| 11/15/2024|
