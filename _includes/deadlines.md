@@ -29,6 +29,7 @@
 | [Barnard College](#barnard) | New York, NY, USA | 10/18/2024 |
 | [Richmond University](#richmond) | Richmond, VA. USA | 10/18/2024 | 
 | [Colgate University](#colgate) | Hamilton, NY. USA | 10/21/2024 | 
+| [The College of Wooster](#wooster) | Wooster, OH. USA | 10/21/2024 |
 | [Randolph-Macon College](#randolph) | Ashland, VA. USA | 10/21/2024 | 
 | [Franklin & Marshall College](#franklinmarshall) | Lancaster, PA. USA | 10/25/2024 |
 | [Williams College](#williams) | Williamstown, MA. USA | 11/08/2024 |
