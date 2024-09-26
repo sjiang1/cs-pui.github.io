@@ -430,3 +430,15 @@ _Excerpt_ The Department of Computer Science at Williams College invites applica
 
 ------------
 
+### Xavier University
+{: #xavier}
+
+_Excerpt_ The Department of Computer Science at Xavier University in Cincinnati, Ohio invites applications for an Assistant Professor tenure-track position, starting Fall 2025. Applicants should have a Ph.D. in Computer Science, Computer Science Education, or a related field; the degree should be completed by August 2025. Candidates should have an interest in helping grow a diverse and inclusive student community while teaching a variety of undergraduate courses, including their own specialty. Along with a B.A. and B.S. in computer science, Xavier’s computer science faculty are integral to the university’s programs in artificial intelligence, cybersecurity, and data science.
+
+- The application deadline is **October 21, 2024**
+- Cincinnati, OH. USA.
+
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/28537){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
