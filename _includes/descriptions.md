@@ -70,7 +70,7 @@ _Excerpt_ [Barnard College Department of Computer Science](https://cs.barnard.ed
 - Review of applications will begin **October 18, 2024** and continue until the position is filled.
 - New York, NY, USA
 
-[Full Job Posting](https://barnard.wd1.myworkdayjobs.com/Faculty/job/New-York-City-NY/Assistant-Professor-of-Computer-Science_JR4112){: .button-job} 
+[Full Job Posting](https://barnard.wd1.myworkdayjobs.com/Faculty/job/New-York-City-NY/Assistant-Professor-of-Computer-Science_JR4112){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -109,6 +109,19 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 - Northfield, MN. USA
 
 [Full Job Posting](https://carleton.wd1.myworkdayjobs.com/en-US/CarletonCareers/job/Assistant-Professor-of-Computer-Science_R-00887){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### College of Wooster
+{: #wooster}
+
+_Excerpt_ The Mathematical and Computational Sciences Department at The College of Wooster invites applications for a tenure-track position in Computer Science at the level of Assistant Professor, beginning in August 2025. We are looking for a broadly trained candidate with a Ph.D. in Computer Science or in a closely aligned field, or relevant interdisciplinary training. Applicants in all areas of computer science will be considered. Candidates with innovative pedagogical ideas at the intersection of CS with humanities and liberal arts are particularly encouraged to apply.
+
+- Applications are due **October 21, 2024.**
+- Wooster, OH. USA
+
+[Full Job Posting](https://wooster.edu/job/assistant-professor-of-computer-science-tenure-track/){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
