@@ -1,16 +1,3 @@
-### Lake Forest College - Computer Science 
-{: #LFC-cs}
-
-_Excerpt_ The Department of Mathematics and Computer Science invites applications for a tenure-track position in Computer Science at the assistant professor level beginning Fall 2025. Candidates from all CS-related specialties are encouraged to apply. We seek candidates with a strong commitment to designing computer science curriculum that is accessible to a wide range of students, enthusiasm for teaching undergraduate students at all levels, and a research program that can involve undergraduate researchers.
-
-- To receive full consideration, please submit an application by **November 22** that includes: 1) a current CV with documentation of teaching experience, 2) a cover letter that describes your motivation for applying and how a liberal arts environment dedicated to diversity and inclusion aligns with your teaching philosophy, 3) a teaching statement, and 4) a research plan that also details your strategy for involving undergraduates in your work.
-- Lake Forest (Northern Suburb of Chicago), IL USA
-
-[Full Job Posting](https://academicjobsonline.org/ajo?action=joblist&args=-0-0-0&id=28627){: .button-job} 
-[_back to all deadlines_](#deadlines)
-
-------------
-
 ### Amherst College - Systems
 {: #amherst-systems}
 
@@ -262,6 +249,19 @@ _Excerpt_ The Department of Computer Science at Knox College invites application
 [Full Job Posting](https://apply.interfolio.com/152587){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
+
+------------
+
+### Lake Forest College - Computer Science 
+{: #LFC-cs}
+
+_Excerpt_ The Department of Mathematics and Computer Science invites applications for a tenure-track position in Computer Science at the assistant professor level beginning Fall 2025. Candidates from all CS-related specialties are encouraged to apply. We seek candidates with a strong commitment to designing computer science curriculum that is accessible to a wide range of students, enthusiasm for teaching undergraduate students at all levels, and a research program that can involve undergraduate researchers.
+
+- To receive full consideration, please submit an application by **November 22** that includes: 1) a current CV with documentation of teaching experience, 2) a cover letter that describes your motivation for applying and how a liberal arts environment dedicated to diversity and inclusion aligns with your teaching philosophy, 3) a teaching statement, and 4) a research plan that also details your strategy for involving undergraduates in your work.
+- Lake Forest (Northern Suburb of Chicago), IL USA
+
+[Full Job Posting](https://academicjobsonline.org/ajo?action=joblist&args=-0-0-0&id=28627){: .button-job} 
+[_back to all deadlines_](#deadlines)
 
 ------------
 
