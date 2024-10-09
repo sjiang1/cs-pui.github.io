@@ -6,6 +6,7 @@
 | [Knox College](#knox) | Galesburg, IL. USA | 09/23/2024 |
 | [Bowdoin College - CS](#bowdoin-cs) | Bowdoin, ME. USA | 10/01/2024 |
 | [Hamilton College](#hamilton) | Hamilton, NY. USA | 10/01/2024
+| [St. Mary's College of Maryland](#smcm) | St. Mary's City, MD. USA | 10/1/2024 |
 | [St. Olaf College](#st-olaf) | Northfield, MN. USA | 10/01/2024 |
 | [Rhodes College](#rhodes) | Memphis, TN. USA | 10/01/2024 |
 | [Carleton College](#carleton) | Northfield, MN. USA | 10/02/2024 |
