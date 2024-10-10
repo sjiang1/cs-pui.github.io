@@ -265,6 +265,19 @@ _Excerpt_ The Department of Mathematics and Computer Science invites application
 
 ------------
 
+### St. Mary's College of Maryland
+{: #smcm}
+
+_Excerpt_ St. Mary’s College of Maryland invites applications for an Open Rank Faculty position in Computer Science, beginning August 2025.  We seek candidates who have a belief in a liberal arts tradition; can bring enthusiasm and skills to help us reimagine computer science in the liberal arts as our program begins a new chapter in its history; provide leadership to an emerging interdisciplinary data science program; and are interested in developing an active research program that involves undergraduates. Salary range is $120k to $125k, depending on qualifications and experience.
+
+- Review of applications will begin on **November 1, 2024,** and will continue until the position is filled. Applications received by that date will receive fullest consideration.
+- St. Mary's City, MD. USA
+
+[Full Job Posting](https://apply.interfolio.com/156334){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### St. Olaf College
 {: #st-olaf}
 
