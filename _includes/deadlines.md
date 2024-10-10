@@ -6,7 +6,6 @@
 | [Knox College](#knox) | Galesburg, IL. USA | 09/23/2024 |
 | [Bowdoin College - CS](#bowdoin-cs) | Bowdoin, ME. USA | 10/01/2024 |
 | [Hamilton College](#hamilton) | Hamilton, NY. USA | 10/01/2024
-| [St. Mary's College of Maryland](#smcm) | St. Mary's City, MD. USA | 10/1/2024 |
 | [St. Olaf College](#st-olaf) | Northfield, MN. USA | 10/01/2024 |
 | [Rhodes College](#rhodes) | Memphis, TN. USA | 10/01/2024 |
 | [Carleton College](#carleton) | Northfield, MN. USA | 10/02/2024 |
@@ -34,6 +33,7 @@
 | [Randolph-Macon College](#randolph) | Ashland, VA. USA | 10/21/2024 | 
 | [Xavier University](#xavier) | Cincinnati, OH. USA | 10/21/2024 |
 | [Franklin & Marshall College](#franklinmarshall) | Lancaster, PA. USA | 10/25/2024 |
+| [St. Mary's College of Maryland](#smcm) | St. Mary's City, MD. USA | 11/1/2024 |
 | [Williams College](#williams) | Williamstown, MA. USA | 11/08/2024 |
 | [Hampden-Sydney College](#hampden-sydney) | Hampden-Sydney, VA. USA| 11/15/2024|
 | [Lake Forest College](#LFC-cs) | Lake Forest, IL. USA | 11/22/2024|
